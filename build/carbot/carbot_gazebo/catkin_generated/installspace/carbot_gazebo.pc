@@ -1,0 +1,8 @@
+prefix=/home/imhs/carbot_ws/install
+
+Name: carbot_gazebo
+Description: Description of carbot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/imhs/carbot_ws/install/lib 
+Requires: 
